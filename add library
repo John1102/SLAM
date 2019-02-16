@@ -1,6 +1,9 @@
 # add CMake library
 
-# To add libraries to a project, create new library at clion, then add directories in cmakelists as shown, and remember to specify link library.
+# To add libraries to a project, create new library at clion, then add directories in cmakelists as shown, 
+# and remember to specify link library.
+
+
 
 cmake_minimum_required(VERSION 3.13)
 project(test2)
